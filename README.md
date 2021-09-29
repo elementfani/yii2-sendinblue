@@ -11,7 +11,7 @@ The choice between the two message types is made automatically by the `compose()
 
 Install this package in Yii project root with [Composer](https://getcomposer.org/).
 
-`composer require silverback/yii2-sendinblue`
+`composer require elementfani/yii2-sendinblue`
 
 ## Setup
 
