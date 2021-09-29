@@ -1,5 +1,5 @@
 {
-    "name": "silverback/yii2-sendinblue",
+    "name": "elementfani/yii2-sendinblue",
     "description": "Sendinblue integration and Mailer for the Yii framework",
     "keywords": ["yii2", "sendinblue", "mailer", "email" ],
     "type": "yii2-extension",    
@@ -13,7 +13,7 @@
     },
     "license": "MIT",
     "autoload": {
-        "psr-4": { "yii\\sendinblue\\": "src" }
+        "psr-4": { "elementfani\\sendinblue\\": "src" }
     },    
     "repositories": [
         {

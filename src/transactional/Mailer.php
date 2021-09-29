@@ -10,7 +10,7 @@
  * @link       http://www.silverbackstudio.it/
  */
 
-namespace yii\sendinblue\transactional;
+namespace elementfani\sendinblue\transactional;
 
 use Yii;
 use yii\mail\BaseMailer;

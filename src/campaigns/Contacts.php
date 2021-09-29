@@ -10,7 +10,7 @@
  * @link       http://www.silverbackstudio.it/
  */
 
-namespace yii\sendinblue\campaigns;
+namespace elementfani\sendinblue\campaigns;
 
 use Yii;
 use yii\base\Component;
