@@ -5,12 +5,12 @@
     "type": "yii2-extension",    
     "require": {
         "yiisoft/yii2": "^2.0.14",
-        "sendinblue/api-v3-sdk": "^6.0"
+        "sendinblue/api-v3-sdk": "^7.4.4"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "3.*",
-        "phpunit/phpunit": "^7"
-    },    
+        "phpunit/phpunit": "^8"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": { "yii\\sendinblue\\": "src" }
